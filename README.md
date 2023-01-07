@@ -1,5 +1,5 @@
-# FP_TBO_ParseApp
-Perkenalkan kami mahasiswa angkatan 2021 dari Program Studi Informatika Universitas Udayana (kelompok 4 kelas B),
+# Final Project Teori Bahasa dan Otomata (*Parsing Application* Kalimat Baku Bahasa Indonesia)
+Perkenalkan kami mahasiswa angkatan 2021 dari Program Studi Informatika Universitas Udayana (Kelompok 4 - Kelas B),
 dalam rangka pembuatan final project mata kuliah Teori Bahasa dan Otomata ini kami membuat aplikasi parsing kalimat baku Bahasa Indonesia.
 
 ## Deskripsi Aplikasi
